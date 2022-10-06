@@ -2,7 +2,7 @@
 
   # :paw_prints: yu-je0ng :seedling:
 
-  안녕하세요, **고유정**입니다. :sparkles:  
+  안녕하세요, **고유정**입니다. 
 
 
 
