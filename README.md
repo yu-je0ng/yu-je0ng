@@ -1,6 +1,6 @@
 <div align="center">
 
-  # :paw_prints: yu-je0ng :seedling:
+  # yu-je0ng 
 
   안녕하세요, **고유정**입니다. 
 
