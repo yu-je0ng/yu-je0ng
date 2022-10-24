@@ -2,8 +2,6 @@
 
   # yu-je0ng 
 
-  안녕하세요, **고유정**입니다. 
-
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
