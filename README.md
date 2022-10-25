@@ -1,11 +1,11 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&color=0:74CDD1,100:7E38B7&fontColor=FFFFFF&height=300&section=header&text=YUJEONG%20KO&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&color=0:74CDD1,100:7E38B7&fontColor=timeAuto&height=300&section=header&text=YUJEONG%20KO&fontSize=90)
 
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 
-</div>
+
 
 <!-- 
 이모지 : https://www.webfx.com/tools/emoji-cheat-sheet/ 
