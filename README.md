@@ -10,8 +10,8 @@
 <br>
 
 <p>
-  👋&nbsp; Hi! I'm <b>yujeong</b> who wants to be a Data Engineer✨ <br/>
-   my favorite sentence is <b>"You never know until you Try"</b> <br/>
+  👋&nbsp; Hi! I'm <b>yujeong</b> wants to be a Data Engineer✨ <br/>
+   My favorite sentence is <b>"You never know until you Try"</b> <br/>
    You may not see it, but I'm still doing something, so visit me often! 💖
 </p>
 
