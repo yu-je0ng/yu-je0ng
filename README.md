@@ -38,11 +38,13 @@
 &nbsp; <img src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=flat&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=javascript&logoColor=white"/>
 
 <br>
+
 <!-- 
 ## :computer: Projects
-- **[Ciao label la ver.1 : AI 모델을 적용한 친환경 서비스 차오라벨라 개발](https://github.com/hanna-joo/PJT_Ciaolabella1)**
-- **[Ciao label la ver.2 : 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인](https://github.com/hanna-joo/PJT_Ciaolabella2)**
-
+&nbsp; **[Ciao label la ver.2 : 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인]** <br/>
+&nbsp; **[Ciao label la ver.1 : AI 모델을 적용한 친환경 서비스 차오라벨라 개발]** <br/>
+&nbsp; **[서울시 식품접객업소의 폐업 확률 예측을 위한 데이터셋 구축]** <br/>
+&nbsp; **[BlueShleter : 정신건강 의료서비스 수요자와 공급자의 상호소통 플랫폼]** <br/>
 
 
 이모지 : https://www.webfx.com/tools/emoji-cheat-sheet/ 
