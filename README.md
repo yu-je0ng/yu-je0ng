@@ -1,4 +1,4 @@
-
+<!-- 
 
 
 ## :high_brightness: about me!
@@ -39,7 +39,7 @@
 
 <br>
 
-<!-- 
+
 ## :computer: Projects
 &nbsp; **[Ciao label la ver.2 : 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인]** <br/>
 &nbsp; **[Ciao label la ver.1 : AI 모델을 적용한 친환경 서비스 차오라벨라 개발]** <br/>
