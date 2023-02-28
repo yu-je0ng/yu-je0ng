@@ -1,10 +1,11 @@
 
 ## :high_brightness: about me!
 
+<!-- 
  &nbsp; <a href="https://tobesteadyde.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-EA4AAA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  <a href="https://www.notion.so/5c8b71c642a44feb8d95f77356574c04" target="_blank"><img src="https://img.shields.io/badge/portfolio-00A98F?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:tobesteadyde@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tobesteadyde@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+-->
 <br>
 
 <p>
