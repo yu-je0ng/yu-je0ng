@@ -1,5 +1,3 @@
-<!-- 
-
 
 ## :high_brightness: about me!
 
@@ -40,6 +38,8 @@
 <br>
 
 
+
+<!-- 
 ## :computer: Projects
 &nbsp; **[Ciao label la ver.2 : 기존 서비스에서 확장성을 고려하여 재구축한 파이프라인]** <br/>
 &nbsp; **[Ciao label la ver.1 : AI 모델을 적용한 친환경 서비스 차오라벨라 개발]** <br/>
@@ -51,4 +51,6 @@
 참고 : https://velog.io/@dot2__/Github-github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 참고2 : https://github.com/cowkite/cowkite/blob/main/README.md?plain=1 
 참고3 : https://blog.cowkite.com/blog/2102241544/
- -->
+-->
+
+
